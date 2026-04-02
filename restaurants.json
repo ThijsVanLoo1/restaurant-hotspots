@@ -1,107 +1,152 @@
 [
   {
-    "id": "1",
+    "id": 1,
     "name": "Restaurant De Sluiskop",
     "lat": 51.8885,
     "lng": 4.3885,
-    "category": "dutch"
+    "category": "Dutch Cuisine",
+    "rating": 4.2,
+    "hours": "11:00 - 22:00",
+    "description": "Gezellig restaurant met traditionele Nederlandse gerechten."
   },
   {
-    "id": "2",
+    "id": 2,
     "name": "Brasserie Smaeck",
     "lat": 51.8892,
     "lng": 4.3869,
-    "category": "french"
+    "category": "French Bistro",
+    "rating": 4.0,
+    "hours": "10:00 - 21:00",
+    "description": "Franse brasserie met een warme sfeer en lekkere wijnen."
   },
   {
-    "id": "3"
+    "id": 3,
     "name": "Eetcafé De Bonte Koe",
     "lat": 51.8898,
     "lng": 4.3855,
-    "category": "dutch"
+    "category": "Dutch Cafe",
+    "rating": 3.9,
+    "hours": "09:00 - 20:00",
+    "description": "Knus eetcafé, ideaal voor lunch en borrel."
   },
   {
-    "id": "4"
+    "id": 4,
     "name": "Restaurant Asia Hoogvliet",
     "lat": 51.8625,
     "lng": 4.3628,
-    "category": "asian"
+    "category": "Asian Cuisine",
+    "rating": 4.1,
+    "hours": "12:00 - 22:00",
+    "description": "Authentieke Aziatische gerechten in een gezellige setting."
   },
   {
-    "id": "5"
+    "id": 5,
     "name": "Brasserie De Vrienden",
     "lat": 51.8612,
     "lng": 4.3645,
-    "category": "international"
+    "category": "International",
+    "rating": 4.0,
+    "hours": "11:00 - 22:00",
+    "description": "Internationale gerechten, perfect voor groepen."
   },
   {
-    "id": "6"
+    "id": 6,
     "name": "La Place Hoogvliet",
     "lat": 51.8598,
     "lng": 4.3612,
-    "category": "dutch"
+    "category": "Dutch Casual Dining",
+    "rating": 3.8,
+    "hours": "09:00 - 21:00",
+    "description": "Zelfbedieningsrestaurant met verse en gezonde gerechten."
   },
   {
-    "id": "7"
+    "id": 7,
     "name": "Restaurant De Beren Rotterdam Zuid",
     "lat": 51.8821,
     "lng": 4.4382,
-    "category": "grill"
+    "category": "Grill & Steakhouse",
+    "rating": 4.2,
+    "hours": "12:00 - 22:00",
+    "description": "Steaks en gegrilde gerechten in een gezellige ambiance."
   },
   {
-    "id": "8"
+    "id": 8,
     "name": "Grillroom Sphinx",
     "lat": 51.8795,
     "lng": 4.4310,
-    "category": "turkish"
+    "category": "Turkish Grill",
+    "rating": 4.0,
+    "hours": "11:00 - 22:00",
+    "description": "Turkse grillgerechten met authentieke smaken."
   },
   {
-    "id": "9"
+    "id": 9,
     "name": "Deli Tasty Schiedam",
     "lat": 51.9195,
     "lng": 4.3985,
-    "category": "fastfood"
+    "category": "Fast Food",
+    "rating": 3.7,
+    "hours": "10:00 - 22:00",
+    "description": "Snelle en lekkere maaltijden, perfect voor een snelle hap."
   },
   {
-    "id": "10"
+    "id": 10,
     "name": "Restaurant 1714 Schiedam",
     "lat": 51.9202,
     "lng": 4.3998,
-    "category": "fine dining"
+    "category": "Fine Dining",
+    "rating": 4.5,
+    "hours": "17:00 - 23:00",
+    "description": "Hedendaagse gerechten met een elegante presentatie."
   },
   {
-    "id": "11"
+    "id": 11,
     "name": "De Noordmolen",
     "lat": 51.9178,
     "lng": 4.4025,
-    "category": "dutch"
+    "category": "Dutch Cuisine",
+    "rating": 4.1,
+    "hours": "11:00 - 22:00",
+    "description": "Traditionele gerechten aan het water."
   },
   {
-    "id": "12"
+    "id": 12,
     "name": "Eetcafé Het Stadskantoor",
     "lat": 51.9189,
     "lng": 4.4012,
-    "category": "cafe"
+    "category": "Cafe & Bistro",
+    "rating": 3.9,
+    "hours": "09:00 - 20:00",
+    "description": "Gezellig eetcafé voor koffie, lunch of borrel."
   },
   {
-    "id": "13"
+    "id": 13,
     "name": "Restaurant Zest",
     "lat": 51.8850,
     "lng": 4.4200,
-    "category": "modern"
+    "category": "Modern European",
+    "rating": 4.3,
+    "hours": "12:00 - 22:00",
+    "description": "Moderne Europese gerechten met verse ingrediënten."
   },
   {
-    "id": "14"
+    "id": 14,
     "name": "Pizzeria Napoli Hoogvliet",
     "lat": 51.8605,
     "lng": 4.3635,
-    "category": "italian"
+    "category": "Italian Pizza",
+    "rating": 4.0,
+    "hours": "11:00 - 22:00",
+    "description": "Italiaanse pizza’s uit de houtoven, favoriet bij locals."
   },
   {
-    "id": "15"
+    "id": 15,
     "name": "Snackbar Pernis Centrum",
     "lat": 51.8889,
     "lng": 4.3872,
-    "category": "fastfood"
+    "category": "Fast Food",
+    "rating": 3.8,
+    "hours": "10:00 - 22:00",
+    "description": "Snelle hap voor tussendoor of afhaal."
   }
 ]
