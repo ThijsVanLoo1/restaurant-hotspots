@@ -1,89 +1,104 @@
 [
   {
+    "id": "1",
     "name": "Restaurant De Sluiskop",
     "lat": 51.8885,
     "lng": 4.3885,
     "category": "dutch"
   },
   {
+    "id": "2",
     "name": "Brasserie Smaeck",
     "lat": 51.8892,
     "lng": 4.3869,
     "category": "french"
   },
   {
+    "id": "3"
     "name": "Eetcafé De Bonte Koe",
     "lat": 51.8898,
     "lng": 4.3855,
     "category": "dutch"
   },
   {
+    "id": "4"
     "name": "Restaurant Asia Hoogvliet",
     "lat": 51.8625,
     "lng": 4.3628,
     "category": "asian"
   },
   {
+    "id": "5"
     "name": "Brasserie De Vrienden",
     "lat": 51.8612,
     "lng": 4.3645,
     "category": "international"
   },
   {
+    "id": "6"
     "name": "La Place Hoogvliet",
     "lat": 51.8598,
     "lng": 4.3612,
     "category": "dutch"
   },
   {
+    "id": "7"
     "name": "Restaurant De Beren Rotterdam Zuid",
     "lat": 51.8821,
     "lng": 4.4382,
     "category": "grill"
   },
   {
+    "id": "8"
     "name": "Grillroom Sphinx",
     "lat": 51.8795,
     "lng": 4.4310,
     "category": "turkish"
   },
   {
+    "id": "9"
     "name": "Deli Tasty Schiedam",
     "lat": 51.9195,
     "lng": 4.3985,
     "category": "fastfood"
   },
   {
+    "id": "10"
     "name": "Restaurant 1714 Schiedam",
     "lat": 51.9202,
     "lng": 4.3998,
     "category": "fine dining"
   },
   {
+    "id": "11"
     "name": "De Noordmolen",
     "lat": 51.9178,
     "lng": 4.4025,
     "category": "dutch"
   },
   {
+    "id": "12"
     "name": "Eetcafé Het Stadskantoor",
     "lat": 51.9189,
     "lng": 4.4012,
     "category": "cafe"
   },
   {
+    "id": "13"
     "name": "Restaurant Zest",
     "lat": 51.8850,
     "lng": 4.4200,
     "category": "modern"
   },
   {
+    "id": "14"
     "name": "Pizzeria Napoli Hoogvliet",
     "lat": 51.8605,
     "lng": 4.3635,
     "category": "italian"
   },
   {
+    "id": "15"
     "name": "Snackbar Pernis Centrum",
     "lat": 51.8889,
     "lng": 4.3872,
