@@ -1,62 +1,92 @@
 [
   {
-    "name": "Rozey",
-    "lat": 51.9209,
-    "lng": 4.4863,
-    "category": "vegan"
+    "name": "Restaurant De Sluiskop",
+    "lat": 51.8885,
+    "lng": 4.3885,
+    "category": "dutch"
   },
   {
-    "name": "Vessel 11",
-    "lat": 51.9214,
-    "lng": 4.4855,
-    "category": "gastropub"
+    "name": "Brasserie Smaeck",
+    "lat": 51.8892,
+    "lng": 4.3869,
+    "category": "french"
   },
   {
-    "name": "Kiiro Wijnhaven",
-    "lat": 51.9218,
-    "lng": 4.4870,
-    "category": "japanese"
+    "name": "Eetcafé De Bonte Koe",
+    "lat": 51.8898,
+    "lng": 4.3855,
+    "category": "dutch"
   },
   {
-    "name": "Stockholm",
-    "lat": 51.9197,
-    "lng": 4.4905,
+    "name": "Restaurant Asia Hoogvliet",
+    "lat": 51.8625,
+    "lng": 4.3628,
+    "category": "asian"
+  },
+  {
+    "name": "Brasserie De Vrienden",
+    "lat": 51.8612,
+    "lng": 4.3645,
     "category": "international"
   },
   {
-    "name": "Old Bay",
-    "lat": 51.9202,
-    "lng": 4.4912,
-    "category": "seafood"
+    "name": "La Place Hoogvliet",
+    "lat": 51.8598,
+    "lng": 4.3612,
+    "category": "dutch"
   },
   {
-    "name": "Apartt",
-    "lat": 51.9199,
-    "lng": 4.4909,
-    "category": "steakhouse"
+    "name": "Restaurant De Beren Rotterdam Zuid",
+    "lat": 51.8821,
+    "lng": 4.4382,
+    "category": "grill"
   },
   {
-    "name": "Wowcrab",
+    "name": "Grillroom Sphinx",
+    "lat": 51.8795,
+    "lng": 4.4310,
+    "category": "turkish"
+  },
+  {
+    "name": "Deli Tasty Schiedam",
     "lat": 51.9195,
-    "lng": 4.4898,
-    "category": "seafood"
+    "lng": 4.3985,
+    "category": "fastfood"
   },
   {
-    "name": "Very Italian Pizza",
-    "lat": 51.9230,
-    "lng": 4.4798,
+    "name": "Restaurant 1714 Schiedam",
+    "lat": 51.9202,
+    "lng": 4.3998,
+    "category": "fine dining"
+  },
+  {
+    "name": "De Noordmolen",
+    "lat": 51.9178,
+    "lng": 4.4025,
+    "category": "dutch"
+  },
+  {
+    "name": "Eetcafé Het Stadskantoor",
+    "lat": 51.9189,
+    "lng": 4.4012,
+    "category": "cafe"
+  },
+  {
+    "name": "Restaurant Zest",
+    "lat": 51.8850,
+    "lng": 4.4200,
+    "category": "modern"
+  },
+  {
+    "name": "Pizzeria Napoli Hoogvliet",
+    "lat": 51.8605,
+    "lng": 4.3635,
     "category": "italian"
   },
   {
-    "name": "Happy Italy",
-    "lat": 51.9227,
-    "lng": 4.4805,
-    "category": "italian"
-  },
-  {
-    "name": "Vapiano Rotterdam",
-    "lat": 51.9225,
-    "lng": 4.4812,
-    "category": "italian"
+    "name": "Snackbar Pernis Centrum",
+    "lat": 51.8889,
+    "lng": 4.3872,
+    "category": "fastfood"
   }
 ]
