@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Rozey",
+    "lat": 51.9209,
+    "lng": 4.4863,
+    "category": "vegan"
+  },
+  {
+    "name": "Vessel 11",
+    "lat": 51.9214,
+    "lng": 4.4855,
+    "category": "gastropub"
+  },
+  {
+    "name": "Kiiro Wijnhaven",
+    "lat": 51.9218,
+    "lng": 4.4870,
+    "category": "japanese"
+  },
+  {
+    "name": "Stockholm",
+    "lat": 51.9197,
+    "lng": 4.4905,
+    "category": "international"
+  },
+  {
+    "name": "Old Bay",
+    "lat": 51.9202,
+    "lng": 4.4912,
+    "category": "seafood"
+  },
+  {
+    "name": "Apartt",
+    "lat": 51.9199,
+    "lng": 4.4909,
+    "category": "steakhouse"
+  },
+  {
+    "name": "Wowcrab",
+    "lat": 51.9195,
+    "lng": 4.4898,
+    "category": "seafood"
+  },
+  {
+    "name": "Very Italian Pizza",
+    "lat": 51.9230,
+    "lng": 4.4798,
+    "category": "italian"
+  },
+  {
+    "name": "Happy Italy",
+    "lat": 51.9227,
+    "lng": 4.4805,
+    "category": "italian"
+  },
+  {
+    "name": "Vapiano Rotterdam",
+    "lat": 51.9225,
+    "lng": 4.4812,
+    "category": "italian"
+  }
+]
