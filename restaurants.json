@@ -2,8 +2,8 @@
   {
     "id": 1,
     "name": "No9 Middelharnis",
-    "lat": 51.7549,
-    "lng": 4.1677,
+    "lat": 51.7552,
+    "lng": 4.1684,
     "category": "Dutch & European",
     "rating": 4.6,
     "hours": "11:00 - 00:00",
@@ -12,121 +12,91 @@
   {
     "id": 2,
     "name": "Brasserie 't Vingerling",
-    "lat": 51.7550,
-    "lng": 4.1679,
+    "lat": 51.7547,
+    "lng": 4.1672,
     "category": "French & Dutch",
     "rating": 4.7,
     "hours": "17:00 - 23:00",
-    "description": "Sfeervolle brasserie met Franse en Nederlandse gerechten."
+    "description": "Sfeervolle brasserie aan de haven met Franse en Nederlandse gerechten."
   },
   {
     "id": 3,
-    "name": "LLEV",
-    "lat": 51.7548,
-    "lng": 4.1675,
-    "category": "French & Dutch",
+    "name": "LLEV Middelharnis",
+    "lat": 51.7543,
+    "lng": 4.1665,
+    "category": "Modern European",
     "rating": 4.4,
     "hours": "10:30 - 22:00",
-    "description": "Restaurant met een moderne keuken, lunch, diner en terras aan de haven."
+    "description": "Modern restaurant met terras aan het water en gevarieerde kaart."
   },
   {
     "id": 4,
     "name": "Quartier Latin",
-    "lat": 51.7549,
-    "lng": 4.1676,
+    "lat": 51.7556,
+    "lng": 4.1690,
     "category": "European",
     "rating": 4.4,
     "hours": "12:00 - 23:00",
-    "description": "Gezellig restaurant met Europese gerechten en uitzicht op de haven."
+    "description": "Gezellig restaurant met Europese gerechten vlak bij de haven."
   },
   {
     "id": 5,
     "name": "Sgroppino",
-    "lat": 51.7557,
-    "lng": 4.1654,
+    "lat": 51.7560,
+    "lng": 4.1658,
     "category": "Italian",
     "rating": 4.9,
     "hours": "12:00 - 21:00",
-    "description": "Authentiek Italiaans restaurant met verse pasta's en pizza's."
+    "description": "Italiaans restaurant met verse pasta's en pizza's."
   },
   {
     "id": 6,
     "name": "Trattoria Le Pinocchio",
-    "lat": 51.7554,
-    "lng": 4.1691,
+    "lat": 51.7550,
+    "lng": 4.1702,
     "category": "Italian",
     "rating": 4.2,
     "hours": "16:00 - 21:30",
-    "description": "Italiaanse trattoria met pizza's en klassieke Italiaanse gerechten."
+    "description": "Italiaanse trattoria met klassieke gerechten en pizza."
   },
   {
     "id": 7,
-    "name": "Rose-Garden Evergreen",
-    "lat": 51.7569,
-    "lng": 4.1608,
+    "name": "Rose Garden Middelharnis",
+    "lat": 51.7568,
+    "lng": 4.1639,
     "category": "Chinese",
     "rating": 4.1,
     "hours": "16:00 - 21:30",
-    "description": "Chinees restaurant met buffet en uitgebreide à-la-cartemogelijkheden."
+    "description": "Chinees restaurant met buffet en à-la-carte opties."
   },
   {
     "id": 8,
     "name": "Werelds In-Side",
-    "lat": 51.7579,
-    "lng": 4.1712,
+    "lat": 51.7574,
+    "lng": 4.1718,
     "category": "International",
     "rating": 4.4,
     "hours": "09:30 - 16:00",
-    "description": "Lunchrestaurant met internationale gerechten en verse producten."
+    "description": "Lunchplek met internationale gerechten en verse lunchopties."
   },
   {
     "id": 9,
     "name": "Majoortje aan de Haven",
-    "lat": 51.7550,
-    "lng": 4.1678,
+    "lat": 51.7551,
+    "lng": 4.1688,
     "category": "Dutch",
     "rating": 4.4,
     "hours": "11:00 - 21:00",
-    "description": "Informeel restaurant aan de haven met Nederlandse lunch- en dinergerechten."
+    "description": "Informeel restaurant aan de haven met Nederlandse keuken."
   },
   {
     "id": 10,
-    "name": "Pizza Grill-Room Sphinx",
-    "lat": 51.7549,
-    "lng": 4.1677,
+    "name": "Sphinx Grill & Pizza",
+    "lat": 51.7548,
+    "lng": 4.1679,
     "category": "Grill & Pizza",
     "rating": 4.1,
     "hours": "11:00 - 22:00",
-    "description": "Grillrestaurant met pizza's, kebab en diverse grillgerechten."
-  },
-  {
-    "id": 11,
-    "name": "Nieuwe Papyrus",
-    "lat": 51.7556,
-    "lng": 4.1648,
-    "category": "Mediterranean",
-    "rating": 3.8,
-    "hours": "15:00 - 23:00",
-    "description": "Restaurant met een gevarieerde mediterrane kaart en afhaalmogelijkheden."
-  },
-  {
-    "id": 12,
-    "name": "Croissy",
-    "lat": 51.7561,
-    "lng": 4.1689,
-    "category": "Lunch & Café",
-    "rating": 4.2,
-    "hours": "09:30 - 17:00",
-    "description": "Populaire lunchroom met koffie, broodjes en huisgemaakte gerechten."
-  },
-  {
-    "id": 13,
-    "name": "Dok16",
-    "lat": 51.7601,
-    "lng": 4.1805,
-    "category": "Family Restaurant",
-    "rating": 4.5,
-    "hours": "10:30 - 15:45",
-    "description": "Gezinsvriendelijk restaurant met toegankelijke lunchgerechten."
+    "description": "Grillrestaurant met pizza's, shoarma en mixed grill."
   }
 ]
