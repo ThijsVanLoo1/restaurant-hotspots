@@ -2,101 +2,101 @@
   {
     "id": 1,
     "name": "No9 Middelharnis",
-    "lat": 51.7552,
-    "lng": 4.1684,
+    "lat": 51.7549,
+    "lng": 4.1681,
     "category": "Dutch & European",
     "rating": 4.6,
     "hours": "11:00 - 00:00",
-    "description": "Modern restaurant aan de haven met Nederlandse en Europese gerechten."
+    "description": "Modern restaurant aan de haven met uitzicht op het water."
   },
   {
     "id": 2,
-    "name": "Brasserie 't Vingerling",
-    "lat": 51.7547,
-    "lng": 4.1672,
-    "category": "French & Dutch",
-    "rating": 4.7,
-    "hours": "17:00 - 23:00",
-    "description": "Sfeervolle brasserie aan de haven met Franse en Nederlandse gerechten."
+    "name": "Brasserie Havenzicht",
+    "lat": 51.7558,
+    "lng": 4.1670,
+    "category": "Brasserie",
+    "rating": 4.5,
+    "hours": "10:00 - 22:00",
+    "description": "Gezellige brasserie direct aan de haven."
   },
   {
     "id": 3,
-    "name": "LLEV Middelharnis",
+    "name": "LLEV Bistro",
     "lat": 51.7543,
-    "lng": 4.1665,
+    "lng": 4.1662,
     "category": "Modern European",
     "rating": 4.4,
-    "hours": "10:30 - 22:00",
-    "description": "Modern restaurant met terras aan het water en gevarieerde kaart."
+    "hours": "09:30 - 21:30",
+    "description": "Moderne bistro met terras en lunch/diner opties."
   },
   {
     "id": 4,
     "name": "Quartier Latin",
-    "lat": 51.7556,
-    "lng": 4.1690,
+    "lat": 51.7562,
+    "lng": 4.1693,
     "category": "European",
-    "rating": 4.4,
+    "rating": 4.3,
     "hours": "12:00 - 23:00",
-    "description": "Gezellig restaurant met Europese gerechten vlak bij de haven."
+    "description": "Sfeervol restaurant in het centrumgebied."
   },
   {
     "id": 5,
-    "name": "Sgroppino",
-    "lat": 51.7560,
-    "lng": 4.1658,
-    "category": "Italian",
-    "rating": 4.9,
-    "hours": "12:00 - 21:00",
-    "description": "Italiaans restaurant met verse pasta's en pizza's."
+    "name": "De Havenkant Grill",
+    "lat": 51.7554,
+    "lng": 4.1701,
+    "category": "Grill & BBQ",
+    "rating": 4.2,
+    "hours": "16:00 - 22:00",
+    "description": "Informeel grillrestaurant vlak bij de kade."
   },
   {
     "id": 6,
-    "name": "Trattoria Le Pinocchio",
-    "lat": 51.7550,
-    "lng": 4.1702,
+    "name": "Sgroppino Italiano",
+    "lat": 51.7569,
+    "lng": 4.1657,
     "category": "Italian",
-    "rating": 4.2,
-    "hours": "16:00 - 21:30",
-    "description": "Italiaanse trattoria met klassieke gerechten en pizza."
+    "rating": 4.8,
+    "hours": "12:00 - 21:00",
+    "description": "Italiaans restaurant met pizza en pasta."
   },
   {
     "id": 7,
-    "name": "Rose Garden Middelharnis",
-    "lat": 51.7568,
-    "lng": 4.1639,
-    "category": "Chinese",
+    "name": "East Garden",
+    "lat": 51.7578,
+    "lng": 4.1645,
+    "category": "Asian",
     "rating": 4.1,
     "hours": "16:00 - 21:30",
-    "description": "Chinees restaurant met buffet en à-la-carte opties."
+    "description": "Aziatisch restaurant net buiten het centrum."
   },
   {
     "id": 8,
-    "name": "Werelds In-Side",
-    "lat": 51.7574,
-    "lng": 4.1718,
-    "category": "International",
-    "rating": 4.4,
-    "hours": "09:30 - 16:00",
-    "description": "Lunchplek met internationale gerechten en verse lunchopties."
+    "name": "Café de Hoek",
+    "lat": 51.7560,
+    "lng": 4.1712,
+    "category": "Cafe",
+    "rating": 4.0,
+    "hours": "08:00 - 18:00",
+    "description": "Kleine lunch- en koffiespot in het dorp."
   },
   {
     "id": 9,
-    "name": "Majoortje aan de Haven",
+    "name": "Bistro Aan De Kaai",
     "lat": 51.7551,
-    "lng": 4.1688,
-    "category": "Dutch",
-    "rating": 4.4,
-    "hours": "11:00 - 21:00",
-    "description": "Informeel restaurant aan de haven met Nederlandse keuken."
+    "lng": 4.1667,
+    "category": "Bistro",
+    "rating": 4.6,
+    "hours": "11:00 - 23:00",
+    "description": "Bistro met uitzicht op de haven en kade."
   },
   {
     "id": 10,
-    "name": "Sphinx Grill & Pizza",
-    "lat": 51.7548,
-    "lng": 4.1679,
-    "category": "Grill & Pizza",
-    "rating": 4.1,
-    "hours": "11:00 - 22:00",
-    "description": "Grillrestaurant met pizza's, shoarma en mixed grill."
+    "name": "Streetfood Middelharnis",
+    "lat": 51.7540,
+    "lng": 4.1689,
+    "category": "Streetfood",
+    "rating": 4.3,
+    "hours": "12:00 - 20:00",
+    "description": "Casual streetfood concept in het centrum."
   }
 ]
