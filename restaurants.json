@@ -2,101 +2,101 @@
   {
     "id": 1,
     "name": "No9 Bistro",
-    "lat": 51.7559,
-    "lng": 4.1671,
+    "lat": 51.7569,
+    "lng": 4.1642,
     "category": "European",
     "rating": 4.6,
     "hours": "11:00 - 00:00",
-    "description": "Restaurant in het centrumgebied van Middelharnis."
+    "description": "Noordelijk Middelharnis gebied."
   },
   {
     "id": 2,
-    "name": "Havenzicht Grill",
-    "lat": 51.7542,
-    "lng": 4.1698,
+    "name": "Harbour Grill",
+    "lat": 51.7541,
+    "lng": 4.1699,
     "category": "Grill",
     "rating": 4.3,
     "hours": "16:00 - 22:00",
-    "description": "Grillrestaurant aan de rand van de haven."
+    "description": "Zuidkant haven Middelharnis."
   },
   {
     "id": 3,
     "name": "LLEV Kitchen",
-    "lat": 51.7567,
-    "lng": 4.1652,
-    "category": "Modern European",
+    "lat": 51.7578,
+    "lng": 4.1676,
+    "category": "Modern",
     "rating": 4.4,
     "hours": "09:30 - 21:30",
-    "description": "Moderne eetplek met terras in Middelharnis."
+    "description": "Oost Middelharnis rand."
   },
   {
     "id": 4,
     "name": "Quartier Latin",
-    "lat": 51.7574,
-    "lng": 4.1706,
+    "lat": 51.7535,
+    "lng": 4.1651,
     "category": "French",
     "rating": 4.2,
     "hours": "12:00 - 23:00",
-    "description": "Restaurant met Franse keuken in de dorpskern."
+    "description": "West Middelharnis gebied."
   },
   {
     "id": 5,
-    "name": "De Kaai Eatery",
-    "lat": 51.7538,
-    "lng": 4.1660,
+    "name": "De Kaai Bistro",
+    "lat": 51.7552,
+    "lng": 4.1718,
     "category": "Bistro",
     "rating": 4.5,
     "hours": "10:00 - 22:00",
-    "description": "Gezellige bistro bij het water."
+    "description": "Haven oostzijde."
   },
   {
     "id": 6,
-    "name": "Sgroppino Italiano",
-    "lat": 51.7489,
-    "lng": 4.1813,
-    "category": "Italian",
-    "rating": 4.8,
-    "hours": "12:00 - 21:00",
-    "description": "Italiaans restaurant in Sommelsdijk."
-  },
-  {
-    "id": 7,
-    "name": "Sommelsdijk Bistro",
-    "lat": 51.7496,
-    "lng": 4.1839,
-    "category": "Bistro",
-    "rating": 4.1,
-    "hours": "11:00 - 21:00",
-    "description": "Lokale bistro in Sommelsdijk dorp."
-  },
-  {
-    "id": 8,
-    "name": "East Garden",
-    "lat": 51.7478,
-    "lng": 4.1784,
-    "category": "Asian",
-    "rating": 4.0,
-    "hours": "16:00 - 21:30",
-    "description": "Aziatische keuken in de rand van Sommelsdijk."
-  },
-  {
-    "id": 9,
-    "name": "Café De Hoek",
-    "lat": 51.7504,
-    "lng": 4.1862,
-    "category": "Cafe",
-    "rating": 4.2,
-    "hours": "08:00 - 18:00",
-    "description": "Koffie en lunchplek in Sommelsdijk."
-  },
-  {
-    "id": 10,
-    "name": "Pizza Point",
-    "lat": 51.7521,
-    "lng": 4.1790,
+    "name": "Sommelsdijk Pizza Point",
+    "lat": 51.7482,
+    "lng": 4.1781,
     "category": "Pizza",
     "rating": 4.3,
     "hours": "16:00 - 22:00",
-    "description": "Pizza takeaway tussen beide dorpen in."
+    "description": "West Sommelsdijk."
+  },
+  {
+    "id": 7,
+    "name": "East Garden",
+    "lat": 51.7497,
+    "lng": 4.1856,
+    "category": "Asian",
+    "rating": 4.1,
+    "hours": "16:00 - 21:30",
+    "description": "Oost Sommelsdijk."
+  },
+  {
+    "id": 8,
+    "name": "Sommelsdijk Bistro",
+    "lat": 51.7476,
+    "lng": 4.1822,
+    "category": "Bistro",
+    "rating": 4.2,
+    "hours": "11:00 - 21:00",
+    "description": "Centrum Sommelsdijk."
+  },
+  {
+    "id": 9,
+    "name": "Cafe De Hoek",
+    "lat": 51.7508,
+    "lng": 4.1883,
+    "category": "Cafe",
+    "rating": 4.0,
+    "hours": "08:00 - 18:00",
+    "description": "Noord Sommelsdijk."
+  },
+  {
+    "id": 10,
+    "name": "Sgroppino Italiano",
+    "lat": 51.7529,
+    "lng": 4.1809,
+    "category": "Italian",
+    "rating": 4.8,
+    "hours": "12:00 - 21:00",
+    "description": "Tussengebied Sommelsdijk."
   }
 ]
