@@ -2,58 +2,58 @@
   {
     "id": 1,
     "name": "No9 Bistro",
-    "lat": 51.7569,
-    "lng": 4.1642,
+    "lat": 51.7582,
+    "lng": 4.1608,
     "category": "European",
     "rating": 4.6,
     "hours": "11:00 - 00:00",
-    "description": "Noordelijk Middelharnis gebied."
+    "description": "Noordwest Middelharnis gebied."
   },
   {
     "id": 2,
     "name": "Harbour Grill",
-    "lat": 51.7541,
-    "lng": 4.1699,
+    "lat": 51.7553,
+    "lng": 4.1665,
     "category": "Grill",
     "rating": 4.3,
     "hours": "16:00 - 22:00",
-    "description": "Zuidkant haven Middelharnis."
+    "description": "Centraal havengebied Middelharnis."
   },
   {
     "id": 3,
     "name": "LLEV Kitchen",
-    "lat": 51.7578,
-    "lng": 4.1676,
+    "lat": 51.7590,
+    "lng": 4.1649,
     "category": "Modern",
     "rating": 4.4,
     "hours": "09:30 - 21:30",
-    "description": "Oost Middelharnis rand."
+    "description": "Noordoost Middelharnis rand."
   },
   {
     "id": 4,
     "name": "Quartier Latin",
-    "lat": 51.7535,
-    "lng": 4.1651,
+    "lat": 51.7547,
+    "lng": 4.1629,
     "category": "French",
     "rating": 4.2,
     "hours": "12:00 - 23:00",
-    "description": "West Middelharnis gebied."
+    "description": "West Middelharnis centrum."
   },
   {
     "id": 5,
     "name": "De Kaai Bistro",
-    "lat": 51.7552,
-    "lng": 4.1718,
+    "lat": 51.7560,
+    "lng": 4.1687,
     "category": "Bistro",
     "rating": 4.5,
     "hours": "10:00 - 22:00",
-    "description": "Haven oostzijde."
+    "description": "Havenzijde noord."
   },
   {
     "id": 6,
     "name": "Sommelsdijk Pizza Point",
-    "lat": 51.7482,
-    "lng": 4.1781,
+    "lat": 51.7502,
+    "lng": 4.1765,
     "category": "Pizza",
     "rating": 4.3,
     "hours": "16:00 - 22:00",
@@ -62,8 +62,8 @@
   {
     "id": 7,
     "name": "East Garden",
-    "lat": 51.7497,
-    "lng": 4.1856,
+    "lat": 51.7516,
+    "lng": 4.1832,
     "category": "Asian",
     "rating": 4.1,
     "hours": "16:00 - 21:30",
@@ -72,8 +72,8 @@
   {
     "id": 8,
     "name": "Sommelsdijk Bistro",
-    "lat": 51.7476,
-    "lng": 4.1822,
+    "lat": 51.7491,
+    "lng": 4.1798,
     "category": "Bistro",
     "rating": 4.2,
     "hours": "11:00 - 21:00",
@@ -82,8 +82,8 @@
   {
     "id": 9,
     "name": "Cafe De Hoek",
-    "lat": 51.7508,
-    "lng": 4.1883,
+    "lat": 51.7524,
+    "lng": 4.1869,
     "category": "Cafe",
     "rating": 4.0,
     "hours": "08:00 - 18:00",
@@ -92,8 +92,8 @@
   {
     "id": 10,
     "name": "Sgroppino Italiano",
-    "lat": 51.7529,
-    "lng": 4.1809,
+    "lat": 51.7538,
+    "lng": 4.1792,
     "category": "Italian",
     "rating": 4.8,
     "hours": "12:00 - 21:00",
