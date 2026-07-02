@@ -2,101 +2,102 @@
   {
     "id": 1,
     "name": "No9 Middelharnis",
-    "lat": 51.7549,
-    "lng": 4.1681,
+    "lat": 51.7548,
+    "lng": 4.1679,
     "category": "Dutch & European",
     "rating": 4.6,
     "hours": "11:00 - 00:00",
-    "description": "Modern restaurant aan de haven met uitzicht op het water."
+    "description": "Restaurant aan de haven van Middelharnis."
   },
   {
     "id": 2,
     "name": "Brasserie Havenzicht",
-    "lat": 51.7558,
-    "lng": 4.1670,
+    "lat": 51.7556,
+    "lng": 4.1668,
     "category": "Brasserie",
     "rating": 4.5,
     "hours": "10:00 - 22:00",
-    "description": "Gezellige brasserie direct aan de haven."
+    "description": "Brasserie aan de kade in Middelharnis."
   },
   {
     "id": 3,
-    "name": "LLEV Bistro",
-    "lat": 51.7543,
-    "lng": 4.1662,
-    "category": "Modern European",
+    "name": "Bistro De Kaai",
+    "lat": 51.7541,
+    "lng": 4.1692,
+    "category": "Bistro",
     "rating": 4.4,
-    "hours": "09:30 - 21:30",
-    "description": "Moderne bistro met terras en lunch/diner opties."
+    "hours": "11:00 - 23:00",
+    "description": "Bistro in het havengebied van Middelharnis."
   },
   {
     "id": 4,
-    "name": "Quartier Latin",
-    "lat": 51.7562,
-    "lng": 4.1693,
-    "category": "European",
-    "rating": 4.3,
-    "hours": "12:00 - 23:00",
-    "description": "Sfeervol restaurant in het centrumgebied."
-  },
-  {
-    "id": 5,
-    "name": "De Havenkant Grill",
-    "lat": 51.7554,
-    "lng": 4.1701,
-    "category": "Grill & BBQ",
-    "rating": 4.2,
-    "hours": "16:00 - 22:00",
-    "description": "Informeel grillrestaurant vlak bij de kade."
-  },
-  {
-    "id": 6,
     "name": "Sgroppino Italiano",
-    "lat": 51.7569,
-    "lng": 4.1657,
+    "lat": 51.7564,
+    "lng": 4.1659,
     "category": "Italian",
     "rating": 4.8,
     "hours": "12:00 - 21:00",
-    "description": "Italiaans restaurant met pizza en pasta."
+    "description": "Italiaans restaurant in Middelharnis centrum."
   },
   {
-    "id": 7,
-    "name": "East Garden",
-    "lat": 51.7578,
-    "lng": 4.1645,
-    "category": "Asian",
-    "rating": 4.1,
-    "hours": "16:00 - 21:30",
-    "description": "Aziatisch restaurant net buiten het centrum."
-  },
-  {
-    "id": 8,
-    "name": "Café de Hoek",
-    "lat": 51.7560,
-    "lng": 4.1712,
+    "id": 5,
+    "name": "Café De Hoek",
+    "lat": 51.7559,
+    "lng": 4.1705,
     "category": "Cafe",
     "rating": 4.0,
     "hours": "08:00 - 18:00",
-    "description": "Kleine lunch- en koffiespot in het dorp."
+    "description": "Koffie- en lunchplek in Middelharnis."
+  },
+
+  {
+    "id": 6,
+    "name": "East Garden Sommelsdijk",
+    "lat": 51.7486,
+    "lng": 4.1812,
+    "category": "Asian",
+    "rating": 4.1,
+    "hours": "16:00 - 21:30",
+    "description": "Aziatisch restaurant in Sommelsdijk."
+  },
+  {
+    "id": 7,
+    "name": "Bistro Sommelsdijk",
+    "lat": 51.7479,
+    "lng": 4.1826,
+    "category": "Bistro",
+    "rating": 4.3,
+    "hours": "11:00 - 22:00",
+    "description": "Gezellige dorpsbistro in Sommelsdijk."
+  },
+  {
+    "id": 8,
+    "name": "Eetcafé De Molen",
+    "lat": 51.7492,
+    "lng": 4.1798,
+    "category": "Dutch",
+    "rating": 4.2,
+    "hours": "12:00 - 23:00",
+    "description": "Eetcafé in de dorpskern van Sommelsdijk."
   },
   {
     "id": 9,
-    "name": "Bistro Aan De Kaai",
-    "lat": 51.7551,
-    "lng": 4.1667,
-    "category": "Bistro",
-    "rating": 4.6,
-    "hours": "11:00 - 23:00",
-    "description": "Bistro met uitzicht op de haven en kade."
+    "name": "Pizza Point Sommelsdijk",
+    "lat": 51.7482,
+    "lng": 4.1840,
+    "category": "Pizza",
+    "rating": 4.0,
+    "hours": "16:00 - 22:00",
+    "description": "Pizza en takeaway in Sommelsdijk."
   },
   {
     "id": 10,
-    "name": "Streetfood Middelharnis",
-    "lat": 51.7540,
-    "lng": 4.1689,
-    "category": "Streetfood",
-    "rating": 4.3,
-    "hours": "12:00 - 20:00",
-    "description": "Casual streetfood concept in het centrum."
+    "name": "Lunchroom De Singel",
+    "lat": 51.7498,
+    "lng": 4.1785,
+    "category": "Lunch",
+    "rating": 4.5,
+    "hours": "09:00 - 17:00",
+    "description": "Lunchroom in Sommelsdijk met terras."
   }
 ]
